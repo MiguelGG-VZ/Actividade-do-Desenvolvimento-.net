@@ -11,5 +11,5 @@ Postar as actividade do professor Egídio, e só
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150](https://share.google/MWFigbwjsftg46zAu" alt="Exemplo de Imagem">
+  <img src="https://via.placeholder.com/150" alt="Exemplo de Imagem">
 </p>
