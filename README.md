@@ -10,6 +10,3 @@ Postar as actividade do professor Egídio, e só
   🚀 Desenvolver as actividade da matéria de desenvolvimento .net!
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Exemplo de Imagem">
-</p>
